@@ -7,9 +7,9 @@
   <a href="https://www.buymeacoffee.com/anas1999"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="anastrak" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=AnasTrk&repo=arcus">
-</p>
+</p> -->
 
 
 <!--
