@@ -9,7 +9,6 @@
 
 <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=AnasTrk&repo=arcus">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=AnasTrk&repo=arcus">
 </p>
 
 
